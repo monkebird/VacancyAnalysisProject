@@ -18,19 +18,19 @@
 ## Описание данных
 
 В рамкаъ проекта я работала с базы данных project_sql. Она включает в себя пять таблиц:  
-1. VACANCIES
+1. **VACANCIES**  
   Таблица хранит в себе данные по вакансиям и содержит следующие столбцы:
   ![VACANCIES](https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@SQL_pj2_2_2.png)
-2. AREAS
+2. **AREAS**  
    Таблица-справочник, которая хранит код региона и его название.
    ![AREAS](https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@SQL_pj2_2_3.png)
-3. EMPLOYERS
+3. **EMPLOYERS**  
    Таблица-справочник со списком работодателей.
    ![EMPLOYERS](https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@SQL_pj2_2_4.png)
-4. INDUSTRIES
+4. **INDUSTRIES**  
    Таблица-справочник вариантов сфер деятельности работодателей.
    ![INDUSTRIES](https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@SQL_pj2_2_5.png)
-5. EMPLOYERS_INDUSTRIES
+5. **EMPLOYERS_INDUSTRIES**  
    Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
    ![EMPLOYERS_INDUSTRIES](https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@SQL_pj2_2_6.png)
    
