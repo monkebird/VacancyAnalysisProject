@@ -1,4 +1,4 @@
-![image](https://github.com/monkebird/VacancyAnalysisProject/assets/91911722/fc5c9166-b454-4c49-8871-24f77ef60e4e)# <center> Project-2: Анализ вакансий из HeadHunter </center>
+# <center> Project-2: Анализ вакансий из HeadHunter </center>
 
 ![HeadHunter](https://moysite.ru/wp-content/uploads/2021/10/headhunter-logo.jpg)
 
